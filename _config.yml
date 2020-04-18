@@ -24,30 +24,25 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "Hackathon México vs Coronavirus | 2/3 Mayo 2020"
+  description: "Construyendo soluciones para la crisis de COVID-19."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
-
-  trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+  name:        "Hackathon México vs Coronavirus"
+  description: "Construyendo soluciones para la crisis de COVID-19."
+  date:        "2 & 3 Mayo 2020"
+  location:    "Online (Mexico)"
 
   hero:
     links:
       - text: "Apply"
-        my_mlh:
-          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://mexicovscoronavirus.github.io/mlh-hackathon-boilerplate/success.html"
+        href: "https://forms.gle/V2UeX2Z1S8MfcJ7u9"
+      - text: "Tesis"
+        href: "bit.ly/2WWGb1J"          
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:rnjai.lamba@undostres.com.mx"
 
   about:
     description: >
